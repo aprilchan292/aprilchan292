@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/april-williams-1152351ab
+[linkedin]: https://www.linkedin.com/in/april-williams-1152351ab/  
